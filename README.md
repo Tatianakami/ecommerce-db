@@ -1,6 +1,6 @@
 # 🛒 Desafio DIO - Projeto Lógico de Banco de Dados: E-commerce
 
-Este repositório contém a entrega do desafio **"Construindo seu Primeiro Projeto Lógico de Banco de Dados (ECOMMERCE)"** proposto no Bootcamp **Geração Tech Unimed-BH - Ciência de Dados** na plataforma [DIO](https://www.dio.me/).
+Este repositório contém a entrega do desafio **"Construindo seu Primeiro Projeto Lógico de Banco de Dados (ECOMMERCE)"** proposto no Bootcamp a plataforma [DIO](https://www.dio.me/).
 
 
 
